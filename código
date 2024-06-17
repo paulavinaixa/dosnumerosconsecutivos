@@ -1,0 +1,10 @@
+int main {
+int x;
+int y; // y es  menor que x
+if (y == x+1) {
+  printf ("Los números son consecutivos");
+}
+else {
+  printf ("Los números no son consecutivos");
+}
+}
